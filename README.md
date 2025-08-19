@@ -4,16 +4,25 @@ A simple React + Node.js (Express) demo project to showcase Stripe Checkout inte
 This project is designed for learning purposes and demonstrates how to build a small e-commerce app with payment functionality.
 
 🚀 Features
+
 Frontend (React + Vite)
+
 Product listing with sample data
+
 Shopping cart functionality (add/remove items, quantity update)
+
 Checkout flow with Stripe
+
 Success & Cancel pages
 
 Backend (Node.js + Express)
+
 REST API with Express
+
 Stripe Checkout Session creation
+
 Product data served from a simple productsData.js file
+
 CORS enabled for frontend communication
 
 
